@@ -1,0 +1,91 @@
+Crie um site em HTML, CSS e JavaScript moderno, responsivo e otimizado em performance com base nas seguintes diretrizes:
+
+## Estrutura Principal
+- Hero Section com vídeo de fundo em autoplay, loop, sem som, ocupando 100% da tela.
+- Sobreposição de cor escura (overlay semi-transparente) para destacar o texto.
+- Headline centralizada e CTA destacado em botão.
+- Layout inspirado no site "HSXP Insider" (estrutura e estilo).
+
+## Cores e Estilo
+- Paleta com fundo escuro (#0A0A0A, #111, #1C1C1C).
+- Detalhes e botões em vermelho (#E50914) e branco puro (#FFFFFF).
+- Tipografia moderna, usar **Inter** ou **Montserrat** (bold nos títulos, regular no corpo).
+- Botões grandes, arredondados, com efeito hover de brilho/vermelho mais intenso.
+- Transições suaves (fade-in, hover states, scroll reveal).
+- Estilo minimalista, elegante, high-tech.
+
+## Seções
+
+### 1. Hero Section
+- Vídeo de fundo fullscreen.
+- Headline principal:
+  "🚨 DURANTE OS PRÓXIMOS 12 MESES EU VOU TE LEVAR DO ZERO À ELITE DA INVESTIGAÇÃO DIGITAL"
+- Subtítulo:
+  "Você terá acesso a um sistema prático e estratégico com a metodologia do HS Intel, que já transformou a carreira de muitos profissionais."
+- Texto adicional:
+  "Não é 'pagou, entrou'! Para tentar uma das vagas, preencha seu formulário de inscrição clicando no botão abaixo."
+- CTA central: 
+  👉 **PREENCHER AGORA**
+
+### 2. Seção "Mesmo que você:"
+✅ Esteja começando do zero, sem conhecimento técnico em investigação digital.  
+✅ Seja policial, advogado, perito ou profissional de TI querendo migrar para a área de inteligência.  
+✅ Já atue no mercado, mas queira aumentar seus ganhos, escalar seus serviços e se posicionar como autoridade.  
+
+### 3. O que você vai aprender
+Grid em 2 colunas com ícones e títulos:
+- 🔎 **Execução de investigações digitais reais**  
+  Do básico ao avançado, com protocolos testados e ferramentas exclusivas como HISPY, Sherlocker, Capturee e Huntter.  
+
+- 💼 **Fechamento comercial e precificação**  
+  Como estruturar propostas, usar SPIN Selling e transformar cada investigação em contratos de alto valor.  
+
+- 🌐 **Autoridade digital**  
+  Posicionamento estratégico para ser reconhecido como referência no mercado de investigação e inteligência.  
+
+- 💡 **Criação de métodos próprios e produtos digitais**  
+  Construa soluções únicas para escalar sua atuação e se diferenciar da concorrência.  
+
+### 4. Sobre o Programa
+Título: **Não é um curso online.**  
+Texto:  
+"O HS Intel é uma mentoria estratégica, 100% prática e ao vivo, com 24 encontros ao longo de 12 meses diretamente com Bruno Fraga e o time da Hacker Society."  
+
+Lista com ícones:
+- 📊 Diagnóstico inicial do seu momento e direcionamento personalizado.  
+- 🎓 Trilha de aulas específicas, ao vivo e gravadas, sempre atualizadas.  
+- 👤 Consultorias individuais com Bruno Fraga.  
+- 🤝 Grupo privado de networking e suporte.  
+- 🛠 Acesso a ferramentas proprietárias (HISPY, Sherlocker, Capturee, Huntter).  
+- 🧭 Acompanhamento estratégico contínuo para acelerar seus resultados.  
+
+### 5. Depoimentos
+Cards com nome, profissão e depoimento:
+
+- **Alexandre – Advogado**  
+  *"Com as técnicas ensinadas, em 3 semanas fechei um serviço de R$87.000,00."*  
+
+- **Clécio**  
+  *"Entrei engatinhando e, em pouco tempo, aprendi a executar e aplicar os conhecimentos adquiridos. Fechei dois contratos em um dia que me renderam mais de R$700, defini meu ICP, evoluí da ideia até o MVP e criei minha aplicação — tudo isso sem ter conhecimentos prévios de programação.”*  
+
+- **Renan – TI**  
+  *"Aplicando o que aprendi no HS Intel, desenvolvi o REPUTA+, uma ferramenta que ajuda médicos(as) de clínicas premium a analisarem automaticamente sua reputação online com credibilidade e valor desde o primeiro contato.”*  
+
+- **Sidney – Dev**  
+  *"Os conhecimentos me direcionaram a contatos de níveis superiores, e hoje estou criando meu AGENTE VIRTUAL, direcionado a quem precisar.”*  
+
+- **Antonio – PC**  
+  *"As técnicas aplicadas e ensinadas me ajudaram a criar minha própria marca e também impulsionaram minha carreira profissional, fazendo minhas investigações avançarem ainda mais.”*  
+
+### 6. Chamada Final
+- Headline de reforço:
+  "Agora é sua vez de entrar para a elite da investigação digital."  
+- CTA central novamente:
+  👉 **PREENCHER AGORA**
+
+## Funcionalidades
+- CTA "👉 PREENCHER AGORA" abre modal ou ancora em formulário de inscrição.
+- Animações de scroll (fadeInUp, fadeInLeft, fadeInRight).
+- Design 100% responsivo (mobile-first).
+- Compatível com navegadores modernos.
+
